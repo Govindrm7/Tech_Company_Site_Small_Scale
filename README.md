@@ -1,9 +1,9 @@
-# Assignment Description
+# Project Description
 
 ## Introduction
-This assignment combines Node.js and React components to create a multi-page web application. It integrates a login system, REST API hierarchy, and separate pages using React Router.
+This Project combines Node.js and React components to create a multi-page web application. It integrates a login system, REST API hierarchy, and separate pages using React Router.
 
-## Assignment Tasks
+## Project Tasks
 
 1. **Connect Node.js with React Login Page**
    - Implemented a login page that verifies user credentials from the backend, using usernames and passwords stored in the database.
@@ -21,8 +21,8 @@ This assignment combines Node.js and React components to create a multi-page web
    - Applied CSS styling to enhance the visual appeal of the pages, ensuring a pleasing user experience.
 
 5. **Git Repository Upload**
-   - Uploaded the assignment onto a Git repository.
-   - Included a README file, explaining the assignment details comprehensively.
+   - Uploaded the Project onto a Git repository.
+   - Included a README file, explaining the Project details comprehensively.
    - Added a `.gitignore` file to exclude `node_modules` from version control.
 
 ## Additional Points
