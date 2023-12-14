@@ -1,0 +1,24 @@
+/* Center the Navbar elements */
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+
+/* Align Navbar links inline */
+.navbar .navbar-nav {
+  display: flex;
+  align-items: center;
+}
+
+/* Optional: Adjust link styles */
+.navbar-nav .nav-link {
+  margin-right: 15px; /* Space between links */
+  color: #fff; /* Link color */
+}
+
+/* Optional: Brand styling */
+.navbar-brand {
+  margin-right: auto; /* Push the brand to the left */
+  color: #fff; /* Brand color */
+  font-weight: bold; /* Brand font weight */
+}
